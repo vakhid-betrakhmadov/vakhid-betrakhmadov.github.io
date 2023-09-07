@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+button {
+  background-color: whitesmoke;
+  color: black;
+  border:none;
+  border-radius: 5px;
+  font-size: 10px;
+  text-align: center;
+  width: fit-content;
+  height: 25px;
+}
